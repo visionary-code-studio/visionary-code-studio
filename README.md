@@ -121,6 +121,7 @@ I thrive at the intersection of intelligence and engineering — building system
 <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
 <img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/>
 <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+<img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text"/>
 </p>
 
 `Git` &nbsp; `GitHub` &nbsp; `VS Code` &nbsp; `Firebase` &nbsp; `Firebase Studio` &nbsp; `Figma`
