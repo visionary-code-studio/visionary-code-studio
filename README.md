@@ -24,7 +24,7 @@
 </a>
 </p>
 
-📍 Kolkata, West Bengal, India &nbsp;&nbsp;|&nbsp;&nbsp; 📧 vaibhavsnu2025@gmail.com
+📍 Kolkata, West Bengal, India &nbsp;&nbsp;|&nbsp;&nbsp; 📧 vaibhavshawsnu.btech.cse.aiml@gmail.com
 
 ![Profile Views](https://komarev.com/ghpvc/?username=visionary-code-studio&color=4F8EF7&style=flat-square)
 
@@ -320,7 +320,7 @@ A heartfelt animated personal gift — balloon-popping experience, photo cards, 
 
 <div align="center">
 
-**📧 vaibhavsnu2025@gmail.com &nbsp;|&nbsp; 📍 Kolkata, West Bengal, India**
+**📧 vaibhavshawsnu.btech.cse.aiml@gmail.com &nbsp;|&nbsp; 📍 Kolkata, West Bengal, India**
 
 </div>
 
