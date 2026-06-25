@@ -55,7 +55,7 @@ I thrive at the intersection of intelligence and engineering — building system
 
 </td>
 <td align="center">
-<img src="logo_banner.png" width="300" alt="SNU Logo"/>
+<img src="logo_banner.png" width="450" alt="SNU Logo"/>
 </td>
 </tr>
 </table>
