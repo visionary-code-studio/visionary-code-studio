@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/snu-banner.png" width="100%" alt="Sister Nivedita University Banner"/>
+<img src="logo_banner.png" width="100%" alt="Sister Nivedita University Banner"/>
 
 ### 🎓 B.Tech CSE (AI & ML) · Sister Nivedita University, Kolkata
 ### 🤖 Future AI Engineer · Web Developer · Hackathon Builder · Tech Explorer
