@@ -276,7 +276,7 @@ A heartfelt animated personal gift — balloon-popping experience, photo cards, 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=visionary-code-studio&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=visionary-code-studio&show_icons=true&theme=tokyonight&rank_icon=github"/>
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=visionary-code-studio&theme=tokyonight"/>
 
