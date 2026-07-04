@@ -2,6 +2,7 @@
 
 <div align="center">
 
+<img src="cover image.png" width="100%" alt="About Me"/>
 <img src="logo_banner.png" width="100%" alt="Sister Nivedita University Banner"/>
 
 ### 🎓 B.Tech CSE (AI & ML) · Sister Nivedita University, Kolkata
