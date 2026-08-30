@@ -220,7 +220,7 @@ A responsive personal portfolio built from scratch.
 - Built with HTML, CSS, and JavaScript
 - Smooth animations, interactive UI, and modern design
 - Implemented vibe coding using "Antigravity" for a signature effect
-- Live: [vaibhavportfolio26.netlify.app](https://vaibhavportfolio26.netlify.app)
+- Live: [[visionary-code-studio.vercel.app](https://visionary-code-studio.vercel.app/)]
 
 ---
 
