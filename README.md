@@ -290,10 +290,15 @@ A heartfelt animated personal gift — balloon-popping experience, photo cards, 
 
 </div>
 
-<div align="center">
+## 🐍 My GitHub Contribution 
 
-[![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=visionary-code-studio&theme=tokyo-night&hide_border=true)](https://github.com/visionary-code-studio)
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/visionary-code-studio/visionary-code-studio/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/visionary-code-studio/visionary-code-studio/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/visionary-code-studio/visionary-code-studio/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
