@@ -293,7 +293,6 @@ A heartfelt animated personal gift — balloon-popping experience, photo cards, 
 <div align="center">
 
 [![Vaibhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=visionary-code-studio&theme=tokyo-night&hide_border=true)](https://github.com/visionary-code-studio)
-
 </div>
 
 ---
