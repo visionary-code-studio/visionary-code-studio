@@ -172,7 +172,7 @@ One of my signature development approaches — blending intuitive design sense w
 📐  Software Engineering & Architecture
 🔓  Open Source Contribution
 📊  Data Analytics & Visualization
-🖼  Graphic Designing [Canva
+🖼  Graphic Designing [Canva]
 📖  Research & Innovation
 ```
 
@@ -325,6 +325,14 @@ An AI model which helps users to understand the github repository by architectur
 ---
 
 ## 🌍 Connect With Me
+
+<table>
+  <tr>
+    <td>
+       <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 
