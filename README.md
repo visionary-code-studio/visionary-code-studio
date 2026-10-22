@@ -75,6 +75,7 @@ I thrive at the intersection of intelligence and engineering — building system
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 </div>
+
 ```text
 👨🏻‍💻  Artificial Intelligence & Machine Learning
 👨🏻‍💻  Full Stack Development  
@@ -154,7 +155,7 @@ One of my signature development approaches — blending intuitive design sense w
 
 ## 🎓 Fields of Interest & Learning Path 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
 </div>
 ---
 <p align="center">Compiling ideas, refactoring logic, and brewing perfection. </p>
