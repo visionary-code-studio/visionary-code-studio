@@ -191,11 +191,7 @@ One of my signature development approaches — blending intuitive design sense w
 
 
 <div align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg"
-    alt="Profile animation"
-    style="border-radius: 50%;"
-  />
+  <img src="https://user-images.githubusercontent.com/74038190/214373791-293fa4f8-9ebd-4de5-9cb5-56033dc3d6ce.jpg"/>
 </div>
 
 
