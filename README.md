@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/vaibhav-shaw-55124835b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://vaibhavportfolio26.netlify.app">
+<a href="https://visionary-code-studio.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
 </a>
 <a href="mailto:vaibhavsnu2025@gmail.com">
