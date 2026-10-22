@@ -183,7 +183,7 @@ One of my signature development approaches — blending intuitive design sense w
 
 ---
 
-## 🛠 Projects
+## 🛠 Projects & Developments
 
 ### 🔐 SentinelX — AI-Powered Industrial Cybersecurity Platform
 > *Hackfinix 2026 · Cambridge Institute of Technology NC, Bengaluru*
@@ -231,10 +231,9 @@ An AI-powered platform concept focused on intelligent automation and next-gen ga
 **Domains:** AI Integration · Automation · Intelligent Systems · Game AI · Future Experiences
 
 ---
+### CodeMap AI 
+An AI model which helps users to understand the github repository by architecture diagram and summaries.
 
-### 🎁 Mother's Day Interactive Website *(Personal)*
-
-A heartfelt animated personal gift — balloon-popping experience, photo cards, English/Hindi toggle letter, Sanskrit shloka scroll, confetti, and full mobile support. Delivered as a self-contained HTML file.
 
 ---
 
