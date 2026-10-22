@@ -167,7 +167,6 @@ One of my signature development approaches — blending intuitive design sense w
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png">
 </div>
----
 <p align="center">Compiling ideas, refactoring logic, and brewing perfection. </p>
 
 ```text
@@ -189,6 +188,9 @@ One of my signature development approaches — blending intuitive design sense w
 ---
 
 ## 🏆 Hackathons & Achievements
+<div style="border-radius:50%">
+<img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg">
+</div>
 
 | Event | Domain | Status |
 |:---|:---|:---:|
@@ -199,6 +201,11 @@ One of my signature development approaches — blending intuitive design sense w
 | **Indian Case Challenge** | Business & Strategy | 🥇 Participant |
 | **Code Clash** | Competitive Coding | 🥇 Participant |
 | **Skepsis C Quest** | C Programming Contest | 🥇 Participant |
+| **NIT Delhi Build With Bharat 2.0** | Semi-Finalist 🏆 |
+| **Internship in Hello World SNU Web Dev Course** | [[Proof](https://lnkd.in/p/dqKEUQMx)] |
+| **Continuously Participating in PrompWar Virtual Challenges** | Learning Vibe-Coding X Loop-Engineering  Dilemma |
+| Campus Ambassador at Cloud Junction |
+| Campus Ambassador at Physics Wallah |
 
 ---
 
