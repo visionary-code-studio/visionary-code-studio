@@ -101,10 +101,10 @@ I thrive at the intersection of intelligence and engineering — building system
 <img src="https://skillicons.dev/icons?i=c" title="C"/>
 <img src="https://skillicons.dev/icons?i=cpp" title="C++"/>
 <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-<img src="https://skillicons.dev/icons?i=java" title="Java (Basic)"/>
+<img src="https://skillicons.dev/icons?i=java" title="Java"/>
 </p>
 
-`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Java (Basic)`
+`C` &nbsp; `C++` &nbsp; `Python` &nbsp; `Java `
 
 ---
 
