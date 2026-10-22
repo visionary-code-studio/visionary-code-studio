@@ -52,7 +52,7 @@ I thrive at the intersection of intelligence and engineering — building system
 ### 🏛 Sister Nivedita University, Kolkata
 **B.Tech — Computer Science Engineering (AI & ML)**
 📅 2025 – 2029 (Expected)
-⭐ CGPA (1st Semester): **9.43 / 10**
+⭐ CGPA (1st Year): **9.38 / 10**
 
 </td>
 <td align="center">
