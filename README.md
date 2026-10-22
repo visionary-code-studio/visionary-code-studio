@@ -184,6 +184,10 @@ One of my signature development approaches — blending intuitive design sense w
 ---
 
 ## 🛠 Projects & Developments
+---
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
+
+---
 
 ### 🔐 SentinelX — AI-Powered Industrial Cybersecurity Platform
 > *Hackfinix 2026 · Cambridge Institute of Technology NC, Bengaluru*
