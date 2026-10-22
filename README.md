@@ -325,7 +325,7 @@ An AI model which helps users to understand the github repository by architectur
 ---
 
 ## 🌍 Connect With Me
-
+<div align="center">
 <table>
   <tr>
     <td>
@@ -333,6 +333,7 @@ An AI model which helps users to understand the github repository by architectur
     </td>
   </tr>
 </table>
+</div>
 
 <p align="center">
 
