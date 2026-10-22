@@ -72,17 +72,22 @@ I thrive at the intersection of intelligence and engineering — building system
 
 ## 🚀 What I'm Currently Working On
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
+</div>
 ```text
-🤖  Artificial Intelligence & Machine Learning
-🌐  Full Stack Web Development  
-⚡  Git & GitHub / Version Control
-☁   Firebase & Cloud Services
-📊  Data Structures & Algorithms
-🏆  National Hackathon Preparation
+👨🏻‍💻  Artificial Intelligence & Machine Learning
+👨🏻‍💻  Full Stack Development  
+👨🏻‍💻  Git & GitHub / Version Control
+👨🏻‍💻  Firebase & Cloud Computing
+👨🏻‍💻  Data Structures & Algorithms [Java]
+👨🏻‍💻  Hackathons Participations & Challenge Myself
 🔬  Physics-Informed Machine Learning (PIML)
 ⚛   Quantum Computing Fundamentals
 🎨  UI/UX Design & Prototyping
-🧱  Software Architecture & System Design
+👨🏻‍💻  Software Architecture & System Design
+👨🏻‍💻  Data-Analytics & Visualization
+👨🏻‍💻  Blockchain Development 
 ```
 
 ---
@@ -135,35 +140,38 @@ I thrive at the intersection of intelligence and engineering — building system
 
 ---
 
-### ⚡ Vibe Coding
+### ⚡ Vibe Coding X Loop Coding
 
 One of my signature development approaches — blending intuitive design sense with rapid prototyping to build **high-fidelity, enterprise-grade interfaces** at hackathon speed.
 
 - 🏗 Built full multi-portal hackathon platforms as single-file HTML prototypes
 - 🎯 Delivered complete UI systems (dashboards, auth flows, role-based portals) solo
-- 🌐 Used **Three.js**, animated backgrounds, real-time simulated data feeds
-- 🔗 Integrated conceptual systems: Blockchain, AI evaluation, NFT certificates
+- 🌐 Used **Three.js**, WebGL, animated backgrounds, real-time simulated data feeds
+- 🔗 Integrated conceptual systems: Blockchain, AI evaluation, Chatbot, 
 - 💡 Bridged ideation → polished prototype in hours, not weeks
 
 ---
 
-## 🌱 Fields of Interest
+## 🎓 Fields of Interest & Learning Path 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif">
+</div>
+---
+<p align="center">Compiling ideas, refactoring logic, and brewing perfection. </p>
 
 ```text
-🤖  Artificial Intelligence
-🧠  Machine Learning & Deep Learning
+🤖  Artificial Intelligence & Machine Learning 
 🌐  Full Stack Web Development
 🔬  Physics-Informed Machine Learning (PIML)
 ⚛   Quantum Computing
-🔐  Cybersecurity & AI-Driven Security Systems
 ⛓  Blockchain & Decentralized Applications
 🎮  Game Development & Intelligent Gaming Systems
 ☁   Cloud Technologies & DevOps
 🎨  UI/UX Design & Human-Computer Interaction
 📐  Software Engineering & Architecture
 🔓  Open Source Contribution
-📊  Data Science & Analytics
-🖼  Graphic Designing
+📊  Data Analytics & Visualization
+🖼  Graphic Designing [Canva
 📖  Research & Innovation
 ```
 
