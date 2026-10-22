@@ -241,14 +241,15 @@ An AI-powered platform concept focused on intelligent automation and next-gen ga
 ### CodeMap AI 
 An AI model which helps users to understand the github repository by architecture diagram and summaries.
 
-
+---
 ---
 
 ## 📜 Certifications
 
 - 📄 MS Office Basic Course (Offline Certification)
-- 🏆 Hackathon Participation Certificates (Multiple)
-- 🏅 Case Competition Participation Certificates
+- 📄 Hackathon Participation Certificates (Multiple)
+- 📄 Case Competition Participation Certificates
+- 📄 Deloitte X Forage | Data Analytics & Visualization Internship Certificate [Link: [[Deloitte Certificate](https://drive.google.com/file/d/1JReAUD6g7jImKdM9Q3BKuyohAJbbL3WN/view?usp=sharing)]
 
 ---
 
