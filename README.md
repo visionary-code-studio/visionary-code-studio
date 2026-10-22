@@ -35,9 +35,19 @@
 
 ## 💫 About Me
 
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTI2NjUxNjQsIm5iZiI6MTc5MjY2NDg2NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDIyVDEwMjc0NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkMDEwNzM4NTdkYWU4M2Q4NTM0OWE4N2Y3NTllZmY5YWRlNmI2YTI3ZGE2YmFkMGY1MGRmNjI2ZWQxZmMxYmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.ePl3wZ0jyYxdh860-AqI2dJzMy_zEnvsc0DBKZNbrmg">
+    </td>
+  </tr>
+</table>
+</div>
+
 I am **Vaibhav Shaw**, a passionate Computer Science undergraduate pursuing **B.Tech in CSE (Artificial Intelligence & Machine Learning)** at **Sister Nivedita University, Kolkata**.
 
-I thrive at the intersection of intelligence and engineering — building systems that think, adapt, and solve real-world problems. My work spans AI/ML research, full-stack web development, and hackathon prototyping, where I've delivered enterprise-grade solutions under tight deadlines.
+I thrive at the intersection of intelligence and engineering — building systems that think, adapt, and solve real-world problems. My work spans AI/ML research, full-stack web development, hackathon participation, graphic designing, and blockchain development, where I've delivered enterprise-grade solutions under tight deadlines.
 
 > *"I embrace life with curiosity, create with purpose, innovate with passion, and never stop learning."*
 
