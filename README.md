@@ -188,8 +188,8 @@ One of my signature development approaches — blending intuitive design sense w
 ---
 
 ## 🏆 Hackathons & Achievements
-<div style="border-radius:50%">
-<img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910581-f13b98b0-6551-4723-9df1-1f3e2a2276f3.jpg" style="border-radius: 50%;>
 </div>
 
 | Event | Domain | Status |
