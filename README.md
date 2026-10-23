@@ -1,6 +1,6 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=36&pause=1000&color=4F8EF7&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Vaibhav+Shaw+%F0%9F%91%8B" alt="Hi, I'm Vaibhav Shaw"/> 
 
-<img align="left" src="Cool image.png">
+<img align="left" src="Cool Image.png">
 
 <div align="center">
 
